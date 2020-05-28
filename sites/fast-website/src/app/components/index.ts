@@ -6,3 +6,4 @@ export { SiteContentPlacement } from "./content-placement";
 export { SiteContentPlacementContainer } from "./content-placement-container";
 export { SiteFeatureCard } from "./feature-card";
 export { SiteCardSection } from "./card-section";
+export { SiteSideNavigation } from "./side-navigation";
